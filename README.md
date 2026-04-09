@@ -1,4 +1,4 @@
-# VNAV-MIT-Course
+# VNAV-MIT-Course (in progress)
 MIT16.485 - Visual Navigation for Autonomous Vehicles
 
 ## Structure
